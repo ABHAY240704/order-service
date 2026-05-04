@@ -3,7 +3,7 @@ A robust Spring Boot 3.4.2 service integrated with a Supabase cloud database.
 
 ## Key Features
 - **Input Validation**: Strict checks for email formats and transaction amounts.
-- **Global Exception Handling**: Custom JSON error messages for API failures
+- **Global Exception Handling**: Custom JSON error messages for API failures.
 - **Security**: Database credentials managed via environment variables.
 - **Interactive Documentation**: Built-in Swagger UI for real-time API testing.
 
